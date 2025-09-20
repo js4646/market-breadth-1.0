@@ -1,0 +1,16 @@
+[
+  {
+    "id": "rule1",
+    "title": "Never Lose Money",
+    "summary": "Focus on safe investments first. Protect your money before chasing high returns.",
+    "example": "If you invest $1000 in a high-risk stock vs a stable ETF, the risk of losing is higher with the stock.",
+    "graphUrl": "/images/rule1.png"
+  },
+  {
+    "id": "rule2",
+    "title": "Invest in What You Understand",
+    "summary": "Stick to businesses you can comprehend.",
+    "example": "Avoid complex derivatives if you don’t fully understand them.",
+    "graphUrl": "/images/rule2.png"
+  }
+]
